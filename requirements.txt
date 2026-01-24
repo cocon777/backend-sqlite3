@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+PyJWT     # simplejwt
+sqlparse

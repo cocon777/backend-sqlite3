@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+deploy_PA.http
+db.sqlite3
+api.http
